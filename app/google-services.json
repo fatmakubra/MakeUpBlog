@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "686320613639",
+    "firebase_url": "https://makeupblog-kbr.firebaseio.com",
+    "project_id": "makeupblog-kbr",
+    "storage_bucket": "makeupblog-kbr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686320613639:android:a24617f93b13de5c",
+        "android_client_info": {
+          "package_name": "com.fatmakubrayalcin.makeupblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686320613639-o8nu4mh3q77fj07r3puj5l6paartist4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJzTW5i88idiSBm9lCF8BC1myhDnDufwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
